@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# редактор и ос
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
